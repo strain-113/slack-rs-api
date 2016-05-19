@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Represents errors that can happen while using the Slack API"],["HttpRequestError","Represents errors that can happen that occur when sending an HTTP request to Slack"]]});
